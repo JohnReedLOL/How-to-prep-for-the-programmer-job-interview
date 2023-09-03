@@ -1,9 +1,7 @@
 # How-to-prep-for-the-programmer-job-interview
-How to prep for the programmer job interview. A guide by John Michael Reed
+How to prep for the programmer job interview. A guide by John Michael Reed.
 
-I copy-pasted the following from a deleted Reddit post of mine: 
-
-To prep for the programmer job interview, most people just do random LeetCode/HackerRank questions. This isn't the best approach. These approaches are better, coming from someone who previously got into Amazon. Make sure you have the basic coding fundamentals down first (which you can learn for free online from a course like Harvard's CS50). Anyway: 
+To prep for the programmer job interview, most people just do random LeetCode/HackerRank questions. This isn't the best approach. These approaches are better, coming from someone who previously got into Amazon. Make sure you have the basic coding fundamentals down first (which you can learn for free online from a course like Harvard's CS50). If you don't have the basic courses from a computer science degree maybe also look at my video where I talk about those courses and their syllabuses/textbooks at https://youtu.be/BTeJC6PI6Hw?feature=shared , there's additional info that I forgot to mention in the description. Anyway: 
 
 - To prepare for the coding interview, [do what this guy did](https://www.reddit.com/r/cscareerquestions/comments/sgktuv/the_definitive_way_on_how_to_leetcode_properly/). I found a GitHub repo that covers the contents of Grokking The Coding Interview for free [here](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions). Also, even though educative.io wants you to pay for the course, you can preview most of it for free by clicking "Preview Course" after choosing your programming language to do the course in at [this link](https://www.educative.io/courses/grokking-the-coding-interview). Also Google the things [this guy did to prepare for the coding interview](https://www.reddit.com/r/csMajors/comments/1564sfs/did_my_google_interview_today/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=2).
 
@@ -25,6 +23,8 @@ Oh, and don't forget to find people or form relationships with people (usually c
 
 If you are having a hard time actually getting interviews, consider sprucing up your LinkedIn, perhaps by [doing what this guy did](https://www.reddit.com/r/csMajors/comments/1564sfs/did_my_google_interview_today/jsyaatr?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=2). Also, make sure your resume is ATS (Applicant Tracking System) friendly, there are ATS friendly resume generators online that use templates. To keep spam off my main email and phone I like to put a second email and Google Voice phone number (that sends calls and texts to the Google Voice app on my phone) on my resume. Watch out for scammers online and make sure to interview actual future coworkers before accepting any job. If your future coworkers say things like "everybody here works at least 10 hours a day" or "the contracting company pays us to pretend to work for months at a time" that's a big red flag.
 
-For some more resources/info related to being tech job ready I also wrote this: https://www.reddit.com/r/csMajors/comments/13pwugo/comment/jlejjym/?utm_source=share&utm_medium=web2x&context=3 . If you want to learn the basics that are covered in a computer science degree, I made a video on those at https://youtu.be/BTeJC6PI6Hw?feature=shared , there's additional info that I forgot to mention in the description.
+For some more resources/info related to being tech job ready I also wrote this: https://www.reddit.com/r/csMajors/comments/13pwugo/comment/jlejjym/?utm_source=share&utm_medium=web2x&context=3 
+
+For some reason I keep getting an error when I try to edit the post, but here's one last resource: https://www.tiktok.com/t/ZT8YT3151/
 
 But yeah, that's how I'd prep to get a programmer job.
