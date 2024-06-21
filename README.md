@@ -27,4 +27,14 @@ For some more resources/info related to being tech job ready I also wrote this: 
 
 For some reason I keep getting an error when I try to edit the post, but here's one last resource: https://www.tiktok.com/t/ZT8YT3151/
 
-But yeah, that's how I'd prep to get a programmer job.
+But yeah, that's how I'd prep to get a programmer job interview.
+
+Oh, also, read the comments under this, it explains the "why" behind us learning sorting algorithms: 
+
+https://www.reddit.com/r/Backend/s/DciZ4Mfjdj
+
+
+
+Oh, and one more thing. Databases outlive backends that connect to them and this piece of information connecting the backend sorting with the database optimization is very important: 
+
+
